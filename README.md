@@ -22,7 +22,7 @@
 
 **Evaluate the model:** Evaluate the performance of the model on the validation set. This includes calculating metrics like RMSE. Predictions on the Test Data.
 
-**Conclusion**.The project has successfully demonstrated the use of Random Forest Regression Networks and Boosting techniques in the development of Robust Yield Prediction model on a dataset consisting of various parameters related to the obtaining of expected yield.
+**Conclusion**.The project has successfully demonstrated the use of Random Forest Regression  in the development of Robust Yield Prediction model on a dataset consisting of various parameters related to the obtaining of expected yield.
 
 
 **I have split this Colab notebook into two parts: the first part covers EDA, data cleaning, preprocessing, and feature engineering; while the second part covers model selection, training, evaluation, and predictions on the test data. This has been done to address memory issues that arise from running all the tasks in a single notebook.**
